@@ -1,9 +1,9 @@
 # PF-Lab03-26K-3028.
 Repository for PF Lab 3 tasks
-# Hi, I'm [Zain Abbas]!
+# Hi, I'm Zain Abbas!
 
-- **Roll Number:** [26K-3028]
-- **Course:** Programming Fundamentals (PF) Lab 03
+- **Roll Number:** 26K-3028
+- **Course:** Programming Fundamentals PF Lab 03
 
 ## About Me
 I'm a first-year Software Engineering student. I'm brand new to programming and just getting started with the basics of problem-solving and writing code. 
