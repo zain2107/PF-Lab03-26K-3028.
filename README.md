@@ -5,12 +5,18 @@ Repository for PF Lab 3 tasks
 - **Roll Number:** 26K-3028
 - **Course:** Programming Fundamentals PF Lab 03
 
-## About Me
-I'm a first-year Software Engineering student. I'm brand new to programming and just getting started with the basics of problem-solving and writing code. 
+# About Me and PF Lab 03
 
-## My Interests & Goals
-Right now, my focus is on building a solid foundation in C/C++ and getting comfortable with tools like Git and GitHub. I'm excited to learn how logic turns into actual working software, improve my skills through these lab assignments, and eventually build cool projects as I grow.
+Hello! I am learning software engineering and working through my programming fundamentals lab.
 
----
-*Learning one line of code at a time!*
+## My Learning Steps
+1. Set up Git and GitHub repository.
+2. Practice Markdown formatting rules.
+3. Master C and C++ fundamentals.
 
+## Tools I Use
+* Visual Studio Code
+* Git Bash
+* GitHub
+
+***Learning to code step-by-step is both challenging and rewarding!***
